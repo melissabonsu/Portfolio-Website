@@ -1,4 +1,5 @@
 import "./Navbar.css"
+import Sidebar from "../Sidebar/Sidebar.jsx"
 import {motion} from "framer-motion"
 
 function Navbar() {
